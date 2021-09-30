@@ -138,7 +138,7 @@ def main():
         if len(updates["result"]) > 0:
             last_update_id = get_last_update_id(updates) + 1
             handle_updates(updates)
-        time.sleep(0.5)
+        time.sleep(2) //increased more time because of anti-spam system of telegram
 
 
 if __name__ == '__main__':
