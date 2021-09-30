@@ -10,8 +10,7 @@ from selenium.webdriver.chrome.options import Options
 
 TOKEN = ''
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
-stop = 0
-number = 0
+stop = number = 0
 def get_url(url):
     response = requests.get(url)
     content = response.content.decode("utf8")
