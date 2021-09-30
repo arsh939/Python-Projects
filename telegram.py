@@ -8,7 +8,7 @@ from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
 
 
-TOKEN = '1332948665:AAFyNQlEjNi2LpEhZD7I5q9Yxiw7UMBCsRY'
+TOKEN = ''
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 stop = 0
 number = 0
