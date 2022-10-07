@@ -6,7 +6,7 @@
 | Ping-Pong Game | [Ping_Pong_Game.py](https://github.com/arsh939/Python-Projects/blob/master/Ping_Pong_Game.py) |
 | Program to add two numbers | [add-numbers.py](https://github.com/arsh939/Python-Projects/blob/master/add-numbers.py) |
 | Amazon back stock project | [amazon-back-stock.py](https://github.com/arsh939/Python-Projects/blob/master/amazon-back-stock.py) |
-| A program to determine whether the number is Armstrong number or not | [armstrong-number.py](https://github.com/arsh939/Python-Projects/blob/master/armstrong-number.py) |
+| A program to determine whether the number is Armstrong number or n ot | [armstrong-number.py](https://github.com/arsh939/Python-Projects/blob/master/armstrong-number.py) |
 | Beautiful turtle pattern program | [beautiful_turtle_pattern.py](https://github.com/arsh939/Python-Projects/blob/master/beautiful_turtle_pattern.py) |
 | Binary Search Algorithm | [binary_search.py](https://github.com/arsh939/Python-Projects/blob/master/binary_search.py) |
 | Blackjack Game | [blackjack.py](https://github.com/arsh939/Python-Projects/blob/master/blackjack.py) |
@@ -25,6 +25,7 @@
 | Tic-tac-toe Game | [tictactoe.py](https://github.com/arsh939/Python-Projects/blob/master/tictactoe.py) |
 | Python Dictionary to find mirror characters in a string | [mirror_function.py](https://github.com/arsh939/Python-Projects/blob/master/mirror_function.py) |
 | Python Program for Bubble Sort | [bubble_sort.py](https://github.com/arsh939/Python-Projects/blob/master/bubble_sort.py) |
+| FLAMES game | [FLAMES game](https://github.com/arsh939/Python-Projects/blob/master/flames_game.py) |
 
 
 Come up with any topic that you find missing from the repo :)
