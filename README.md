@@ -23,6 +23,8 @@
 | A Python program of recursion list sum | [sum_of_list.py](https://github.com/arsh939/Python-Projects/blob/master/sum_of_list.py) |
 | A program to deal with swap case | [swap_case.py](https://github.com/arsh939/Python-Projects/blob/master/swap_case.py) |
 | Tic-tac-toe Game | [tictactoe.py](https://github.com/arsh939/Python-Projects/blob/master/tictactoe.py) |
+| Python Dictionary to find mirror characters in a string | [mirror_function.py](https://github.com/arsh939/Python-Projects/blob/master/mirror_function.py) |
+| Python Program for Bubble Sort | [bubble_sort.py](https://github.com/arsh939/Python-Projects/blob/master/bubble_sort.py) |
 
 
 Come up with any topic that you find missing from the repo :)
