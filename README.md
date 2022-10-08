@@ -6,10 +6,12 @@
 | Ping-Pong Game | [Ping_Pong_Game.py](https://github.com/arsh939/Python-Projects/blob/master/Ping_Pong_Game.py) |
 | Program to add two numbers | [add-numbers.py](https://github.com/arsh939/Python-Projects/blob/master/add-numbers.py) |
 | Amazon back stock project | [amazon-back-stock.py](https://github.com/arsh939/Python-Projects/blob/master/amazon-back-stock.py) |
-| A program to determine whether the number is Armstrong number or n ot | [armstrong-number.py](https://github.com/arsh939/Python-Projects/blob/master/armstrong-number.py) |
+| A program to determine whether the number is Armstrong number or not | [armstrong-number.py](https://github.com/arsh939/Python-Projects/blob/master/armstrong-number.py) |
 | Beautiful turtle pattern program | [beautiful_turtle_pattern.py](https://github.com/arsh939/Python-Projects/blob/master/beautiful_turtle_pattern.py) |
 | Binary Search Algorithm | [binary_search.py](https://github.com/arsh939/Python-Projects/blob/master/binary_search.py) |
 | Blackjack Game | [blackjack.py](https://github.com/arsh939/Python-Projects/blob/master/blackjack.py) |
+| Create Excel file using python | [create-excel-file.py](https://github.com/arsh939/Python-Projects/blob/master/create-excel-file.py) |
+| A program to read excel file | [read-excelfile.py](https://github.com/arsh939/Python-Projects/blob/master/read-excelfile.py) |
 | Bresenham | [bresenham.py](https://github.com/arsh939/Python-Projects/blob/master/bresenham.py) |
 | Coffee-machine | [coffee-machine.py](https://github.com/arsh939/Python-Projects/blob/master/coffee-machine.py) |
 | A program to find compound interest | [compound-interest.py](https://github.com/arsh939/Python-Projects/blob/master/compound-interest.py) |
