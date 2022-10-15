@@ -1,6 +1,6 @@
-Come up with any topic that you find missing from the repo :)
-# Programs Implemented
 
+# Programs Implemented
+Come up with any topic that you find missing from the repo :)
 | Programs | Location |
 | :------------ | ------------: |
 | A program to find duplicate files in all sub-directories of a directory | [FindDuplicateFilesInDir.py](https://github.com/arsh939/Python-Projects/blob/master/FindDuplicateFilesInDir.py) |
