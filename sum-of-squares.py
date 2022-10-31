@@ -10,11 +10,7 @@ def squaresum(n) :
     # and n finding 
     # square of i and
     # add to sum.
-    sm = 0
-    for i in range(1, n+1) :
-        sm = sm + (i * i)
-      
-    return sm
+    return sum(x*x for x in range(n,0,-1))
   
 # Driven Program
 n = 4
